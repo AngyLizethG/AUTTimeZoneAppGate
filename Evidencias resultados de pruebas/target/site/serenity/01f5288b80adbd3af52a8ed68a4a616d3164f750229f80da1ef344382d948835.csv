@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"as a quality analyst I want to ensure the correct operation and test the time zone service","validate response message to with invalid latitude","SUCCESS","2021-09-09T07:19:34.645-05:00[America/Bogota]","0.0","7.72"
+"as a quality analyst I want to ensure the correct operation and test the time zone service","validate the reply message with valid latitude and invalid longitude","SUCCESS","2021-09-09T07:19:42.369-05:00[America/Bogota]","0.0","1.78"
+"as a quality analyst I want to ensure the correct operation and test the time zone service","validate that the information is correctly returned, when the latitude and longitude are valid","SUCCESS","2021-09-09T07:19:44.146-05:00[America/Bogota]","0.0","1.08"
+"as a quality analyst I want to ensure the correct operation and test the time zone service","Validate the reply message when the user does not exist","SUCCESS","2021-09-09T07:19:45.24-05:00[America/Bogota]","0.0","0.86"
+"as a quality analyst I want to ensure the correct operation and test the time zone service","Validate reply message when user is invalid","SUCCESS","2021-09-09T07:19:46.099-05:00[America/Bogota]","0.0","5.66"
