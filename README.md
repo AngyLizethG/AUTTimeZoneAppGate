@@ -73,8 +73,11 @@ Normalmente no se deberían subir los archivos de la carpeta target al repositor
 
 # Contribuyente:
 
-Nambre del contribuyente: Angy Lizeth Giraldo Legarda
+Nombre del contribuyente: Angy Lizeth Giraldo Legarda
+
 Email: Ingenieraangy@gmail.com
+
 Contribución: Creadora de la automatización AUTTimeZoneAppGate de pruebas para el servicio  http://api.geonames.org/timezoneJSON?formatted=true&lat=LATITUD&lng=LONGI 
+
 
 Gracias. :)
