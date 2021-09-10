@@ -1,8 +1,5 @@
 package geonames.org.certification.stepsdefinitions;
 
-//import geonames.org.certification.tasks.RemenberValue;
-//import geonames.org.certification.utilities.PredefinedValues;
-
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
